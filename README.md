@@ -2,7 +2,13 @@
 
 Proyek deteksi senyum secara real-time menggunakan webcam dengan **OpenCV** dan algoritma **Haar Cascade Classifier**.
 
-## 📋 Deskripsi
+## � Hasil Proyek
+
+![Demo Smile Detection](demo.png)
+
+> Program berhasil mendeteksi **wajah** (kotak merah) dan **senyum** (kotak hijau + teks "Smile :)") secara real-time.
+
+## �📋 Deskripsi
 
 Program ini menggunakan kamera secara langsung untuk:
 - Mendeteksi **wajah** manusia di dalam frame
